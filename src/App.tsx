@@ -3,7 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter, Routes, Route } from "react-router-dom"
 import { Home } from "./pages/Home"
 import { Layout } from "./pages/Layout"
-import { Information } from "./pages/Information"
+import { Information } from "./Information"
 import { NoPage } from "./pages/NoPage"
 
 
