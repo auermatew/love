@@ -1,0 +1,56 @@
+.body {
+    margin: 1rem 1rem 1rem 1rem;
+}
+
+.adatfelvevo {
+    max-width: 85rem;
+    margin: 1rem 1rem 1rem 12rem;
+}
+
+.tablazat-container {
+    overflow-x: auto;
+}
+
+.tablazat {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tablazat th,
+.tablazat td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+.tablazat th {
+    background-color: #f2f2f2;
+}
+
+.kereso {
+    margin-bottom: 10px;
+}
+
+.arrow {
+    margin-left: 5px;
+}
+
+.p-container {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+}
+
+.hozzaad{
+    margin: 1rem 1rem 1rem 44.2rem;
+}
+
+.checkbox{
+    margin-left: 1.5vw;
+    margin-top: 0.4vw;
+}
+
+.icon{
+    height: 2rem;
+    width: 2rem;
+}
