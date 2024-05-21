@@ -1,0 +1,94 @@
+{
+   "lovak":[
+      {
+         "id": 1,
+         "Nev": "Szellő",
+         "Fajta": "Lipicai",
+         "Tipus": "Díjlovaglás",
+         "Ar": 5000000,
+         "Marmagassag": 165,
+         "Eletkor": 10,
+         "Jobbkezes": true
+      },
+      {
+         "id": 2,
+         "Nev": "Villám",
+         "Fajta": "Arab telivér",
+         "Tipus": "Távlovaglás",
+         "Ar": 7000000,
+         "Marmagassag": 155,
+         "Eletkor": 8,
+         "Jobbkezes": true
+      },
+      {
+         "id": 3,
+         "Nev": "Csillag",
+         "Fajta": "Fjord",
+         "Tipus": "Hobbiló",
+         "Ar": 3000000,
+         "Marmagassag": 145,
+         "Eletkor": 12,
+         "Jobbkezes": false
+      },
+      {
+         "id": 4,
+         "Nev": "Herkules",
+         "Fajta": "Shire",
+         "Tipus": "Mezőgazdasági munka",
+         "Ar": 10000000,
+         "Marmagassag": 180,
+         "Eletkor": 7,
+         "Jobbkezes": true
+      },
+      {
+         "id": 5,
+         "Nev": "Tündér",
+         "Fajta": "Connemara",
+         "Tipus": "Ugróló",
+         "Ar": 6000000,
+         "Marmagassag": 148,
+         "Eletkor": 9,
+         "Jobbkezes": true
+      },
+      {
+         "id": 6,
+         "Nev": "Hópihe",
+         "Fajta": "Fríz",
+         "Tipus": "Díjlovaglás",
+         "Ar": 8000000,
+         "Marmagassag": 160,
+         "Eletkor": 11,
+         "Jobbkezes": true
+      },
+      {
+         "id": 7,
+         "Nev": "Zeusz",
+         "Fajta": "Quarter Horse",
+         "Tipus": "Western lovaglás",
+         "Ar": 7500000,
+         "Marmagassag": 155,
+         "Eletkor": 6,
+         "Jobbkezes": true
+      },
+      {
+         "id": 8,
+         "Nev": "Pegazus",
+         "Fajta": "Andalúz",
+         "Tipus": "Díjugratás",
+         "Ar": 9000000,
+         "Marmagassag": 165,
+         "Eletkor": 5,
+         "Jobbkezes": false
+      },
+      {
+         "id": 9,
+         "Nev": "Nimród",
+         "Fajta": "Haflingi",
+         "Tipus": "Tereplovaglás",
+         "Ar": 4000000,
+         "Marmagassag": 150,
+         "Eletkor": 13,
+         "Jobbkezes": true
+      }
+   ]
+}

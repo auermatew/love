@@ -1,0 +1,21 @@
+.error-page {
+    background-color: #1a1a1a;
+    width: 100%; 
+    height: 87.8vh; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.error-page h1 {
+    margin: 1rem 0;
+    color: white;
+}
+
+.error-page img {
+    margin: 1rem 0;
+    max-width: 20%; 
+    height: auto; 
+}
